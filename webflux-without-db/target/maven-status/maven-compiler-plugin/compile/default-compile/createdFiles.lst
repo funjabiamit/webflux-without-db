@@ -1,0 +1,5 @@
+com\example\demo\controller\PostController.class
+com\example\demo\model\Post$PostBuilder.class
+com\example\demo\model\Post.class
+com\example\demo\Application.class
+com\example\demo\repository\PostRepository.class
